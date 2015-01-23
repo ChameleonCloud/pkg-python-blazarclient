@@ -1,0 +1,11 @@
+--- a/climateclient/version.py	2015-01-23 13:38:18.045887662 +0000
++++ b/climateclient/version.py	2015-01-23 13:38:50.582887558 +0000
+@@ -13,7 +13,4 @@
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ 
+-import pbr.version
+-
+-
+-__version__ = pbr.version.VersionInfo('python-climateclient').version_string()
++__version__ = "REDHATBLAZARCLIENTVERSION"
